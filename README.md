@@ -74,7 +74,4 @@ We welcome contributions! Please read our [CONTRIBUTING.md](.github/CONTRIBUTING
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Project Link: [https://github.com/yourusername/library-management-system](https://github.com/yourusername/library-management-system)
 ```
